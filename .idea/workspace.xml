@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a44ccb2-3e3d-4bd8-9793-92a017e7a915" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Petla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Petla.java" afterDir="false" />
-    </list>
+    <list default="true" id="0a44ccb2-3e3d-4bd8-9793-92a017e7a915" name="Changes" comment="added new gitIgnore file and some changes for Git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,6 +137,14 @@
       <option name="presentableId" value="Default" />
       <updated>1657959220763</updated>
     </task>
+    <task id="LOCAL-00001" summary="added new gitIgnore file and some changes for Git">
+      <created>1664716617853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664716617853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +157,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added new gitIgnore file and some changes for Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new gitIgnore file and some changes for Git" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
