@@ -12,7 +12,7 @@ public class Petla {
             Thread.sleep(500);
         }
 
-
+// added for changes :)
 
         System.out.println("Boom ");
     }
